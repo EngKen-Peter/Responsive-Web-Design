@@ -1,6 +1,6 @@
 # Responsive-Web-Design
 
-<!DOCTYPE html>
+  <!DOCTYPE html>
     <html>
         <head>
             <title>Responsive Web Design</title>
